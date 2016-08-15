@@ -1,0 +1,126 @@
+#fondo1 {  /* header pao*/
+	background-image: url("../img/background/hero_1.jpg");
+	width: 100%;
+	height: 650px;
+	background-size: 100%;
+	opacity: 0.9;
+}
+.amenu {
+	font-size: 20px;
+	margin:35px 20px;
+}
+#marmenu {
+	margin-right: 150px;
+}
+h1 {
+	margin-top: 200px;
+}
+.margin1 {
+	margin: 40px 0px;
+}
+.botonheader {
+	color: white;
+	padding: 15px;
+	border: none; 
+	margin: 0px 15px;
+}
+.bg-gris {
+	background-color: #212121;
+}
+.bg-trans {
+	background: rgba(255, 255, 255,.1);
+}
+.botonesh {
+	margin:0px 40%;
+}
+.title1{ /* seccion pao */
+	font-size: 30px;
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+.imgt {
+	width: 900px;
+	margin: 0px 15% 80px 15%;
+}
+.cajat1 {
+	box-sizing: border-box;
+	margin: 10px;
+	padding: 10px;
+	width: 45%;
+}
+
+#fondo2 {  /* seccion pao*/
+	background-image: url("../img/background/city.jpg");
+	width: 100%;
+	height: 400px;
+	background-size: 100%;
+}
+.bg-darkgray {
+	background-color:lightgray;
+}
+.bg-white{
+	background-color: white;
+}
+.textf2 {
+	padding: 120px 0px;
+}
+.textti1 {
+	margin:20px;
+	font-size: 25px;
+}
+.cajafo {
+	width: 300px;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid gray;
+}
+.textrell {
+	padding: 20px;
+	margin:10px;
+}
+.rell1 {
+	background-color: #5BDACE;
+}
+.pull-center {
+	margin:0px 55px;
+}
+form { /* formulario*/
+	width: 550px;
+	background: rgba(0,0,0,.1);
+	padding: 20px 30px;
+	margin: 20px 30px;
+	border-radius: 10px;
+	box-sizing: border-box;
+	opacity: 0.8;
+}
+h2 {
+	color: white;
+	margin: 10px;
+	font-size: 30px;
+}
+input, textarea {
+	width: 100%;
+	padding: 10px;
+	font-size: 14px;
+	margin: 10px;
+	color: white;
+}
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+#botonform {
+	background-color: #5BDACE;
+	color: white;
+	padding: 10px; 
+	margin: 10px;
+}
+.center{
+	text-align:center;
+}
+
+.h3{
+	margin-bottom:5px;
+
+}
